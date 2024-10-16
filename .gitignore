@@ -52,5 +52,7 @@ Mkfile.old
 dkms.conf
 
 # Tests and old dirs
-test/
+tests/
 old/
+venv/
+strace*
